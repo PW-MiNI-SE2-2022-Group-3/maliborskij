@@ -13,7 +13,7 @@ namespace StringCalculatorTest
         }
 
         [Theory]
-        [InlineData("1",1)]
+        [InlineData("1",0)]
         [InlineData("0", 0)]
         [InlineData("2", 2)]
         public void SingleNumberReturnTheValue(string input, int expectedResult)
