@@ -1,0 +1,16 @@
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\bin\Debug\net5.0\StringCalculator.exe
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\bin\Debug\net5.0\StringCalculator.deps.json
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\bin\Debug\net5.0\StringCalculator.runtimeconfig.json
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\bin\Debug\net5.0\StringCalculator.runtimeconfig.dev.json
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\bin\Debug\net5.0\StringCalculator.dll
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\bin\Debug\net5.0\ref\StringCalculator.dll
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\bin\Debug\net5.0\StringCalculator.pdb
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.csproj.AssemblyReference.cache
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.AssemblyInfoInputs.cache
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.AssemblyInfo.cs
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.dll
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\obj\Debug\net5.0\ref\StringCalculator.dll
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.pdb
+h:\Windows7\Desktop\SE2\L2\StringCalculator\StringCalculator\obj\Debug\net5.0\StringCalculator.genruntimeconfig.cache
